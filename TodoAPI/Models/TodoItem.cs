@@ -5,6 +5,6 @@
         public long Id { get; set; }
         public string? Name { get; set; }
         public bool IsComplete { get; set; }
-        public string? Quiz2 { get; set; }  // New property added
+        public string? Quiz2 { get; set; }  // New item added
     }
 }
